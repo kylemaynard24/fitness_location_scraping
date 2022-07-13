@@ -1,0 +1,66 @@
+Address,City_State_Zip,Phone_Number,Store_Number,Zip_Code_Found
+"3755 Carmia Drive SW,","Atlanta, GA 30331",(404) 349-7575,store_2530,38134.0
+"3232 Peachtree Rd NE, Ste A","Atlanta, GA 30305",(404) 581-5954,store_2528,38134.0
+"75 5th St NW, Ste E","Atlanta, GA 30308",(470) 440-5180,store_2526,38134.0
+"95 Foster Drive,","McDonough, GA 30253",(678) 271-2130,store_2708,38134.0
+"1618 Highway 138 SE,","CONYERS, GA 30013",(202) 327-1088,store_2703,38134.0
+Status: Temporary Closed,"701 E Cathedral Rd,","Philadelphia, PA 19128",store_2655,22150.0
+"1983 H St, Bldg W313","Norfolk, VA 23511",(757) 226-6958,store_2750,22150.0
+"1611 Midway Rd, JEB Little Creek-Fort Story","Virginia Beach, VA 23459",(757) 578-5967,store_2751,22150.0
+"2100 Route 38,","Cherry Hill, NJ 08002",(856) 755-0049,store_2533,22150.0
+"4100 William Penn Hwy Suite 43,","Monroeville, PA 15146",(412) 445-1934,store_2651,22150.0
+16289 Sierra Lakes Pkwy,"Fontana, CA 92336",(909) 357-4964,store_2573,92545.0
+"6400 Irvine Blvd,","Irvine, CA 92620",(949) 679-9755,store_2517,92545.0
+"2880 Michelle,","Irvine, CA 92606",(714) 368-3370,store_2569,92545.0
+"201 S El Camino Real,","Encinitas, CA 92024",(760) 505-5466,store_2568,92545.0
+"1275 Foothill Blvd,","La Verne, CA 91750",(714) 204-8179,store_2712,92545.0
+"711 Stewart Ave,","Garden City, NY 11530",(718) 267-2800,store_2734,11559.0
+"1111 Marcus Avenue Ste S100,","New Hyde Park, NY 11042",(516) 327-2426,store_2535,11559.0
+1776 Eastchester Rd,"Bronx, NY 10461",(718) 828-1871,store_2740,11559.0
+"455 Park Avenue,","Lindenhurst, NY 11757",(631) 226-6900,store_2718,11559.0
+"485 Harmon Meadow Blvd,","Secaucus, NJ 07094",(917) 747-8290,store_2695,11559.0
+"150 E Highway 67,","Duncanville, TX 75137",(972) 283-6833,store_2638,75137.0
+"5550 N MacArthur Blvd,","Irving, TX 75038",(972) 753-4808,store_2545,75137.0
+3838 Richmond Ave,"Houston, TX 77027",(832) 528-8562,store_2663,75137.0
+"3900 Bethel Drive,","St. Paul, MN 55112",(651) 638-6251,store_2678,60607.0
+"1155 Washington Pike,","Bridgeville, PA 15017",(412) 914-0242,store_2652,60607.0
+Status: Temporary Closed,8700 Duncan Avenue,"Pittsburgh, PA 15237",store_2749,60607.0
+"6425 Penn Ave,","Pittsburgh, PA 15206",(724) 431-9972,store_2739,60607.0
+"8555 SW 124th Avenue,","Miami, FL 33183",(305) 274-1006,store_2680,33189.0
+"16339 SW 88th Street,","Miami, FL 33196",(786) 245-9105,store_2654,33189.0
+3301 Coral Way,"Miami, FL 33145",(954) 397-6885,store_2753,33189.0
+"9291 W Flagler St,","Miami, FL 33174",(305) 554-1166,store_2742,33189.0
+"14100 SW 8th St,","Miami, FL 33184",(305) 551-9633,store_2693,33189.0
+Status: Temporary Closed,100 Marketplace Dr,"Henrietta, NY 14623",store_2743,14623.0
+1867 W Ridge Rd,"Greece, NY 14615",(817) 995-2600,store_2737,14623.0
+"1600 E Ridge Rd,","Rochester, NY 14621",(585) 544-2888,store_2738,14623.0
+"270 Sparta Ave, Ste 108","Sparta, NJ 07871",(973) 726-3484,store_2754,14623.0
+"355 N Rosemead Blvd,","Pasadena, CA 91107",(626) 232-4812,store_2746,91007.0
+"920 S Fremont Ave,","Alhambra, CA 91803",(626) 497-3863,store_2577,91007.0
+"8909 Washington Blvd,","Pico Rivera, CA 90660",(626) 497-3863,store_2576,91007.0
+"3400 Cahuenga Blvd W,","Los Angeles, CA 90068",(323) 876-5966,store_2514,91007.0
+"18445 Pembroke Pines Blvd,","Pembroke Pines, FL 33029",(954) 816-4424,store_2580,34108.0
+"10055 NW 41st Street,","Miami, FL 33178",(786) 325-0110,store_2701,34108.0
+"1041 S University Dr,","Broward, FL 33324",(786) 420-9652,store_2741,34108.0
+"15024 Main Street,","Mill Creek, WA 98012",(425) 337-1025,store_2566,98208.0
+"19800 Highway 99,","Lynwood, WA 98036",() -,store_2752,98208.0
+"1416 NW 46th Street,","Seattle, WA 98107",(206) 706-0400,store_2659,98208.0
+"536 Milltown Road,","North Brunswick, NJ 08902",(845) 344-7143,store_2683,19064.0
+"200 New World Way,","South Plainfield, NJ 07080",(908) 755-7722,store_2705,19064.0
+"145 E Service Rd,","Staten Island, NY 10314",(347) 825-2813,store_2603,19064.0
+"5 Gateway Blvd,","Patchogue, NY 11772",(631) 776-7696,store_2710,2032.0
+"300 Boston Post Road,","West Haven, CT 06516",(203) 932-7185,store_2636,2032.0
+1046 NY Rte 112,"Port Jefferson, NY 11776",(718) 267-2800,store_2732,2032.0
+"110 New Moriches Rd,","Lake Grove, NY 11755",(631) 738-1500,store_2604,2032.0
+"122 E Main St,","Smithtown, NY 11787",(718) 267-2800,store_2731,2032.0
+"1000 N Federal Hwy,","Pompano Beach, FL 33062",MORE DETAILS,store_2748,33062.0
+"1000 E Hillsboro Blvd,","Deerfield, FL 33441",(954) 418-7977,store_2688,33062.0
+"5591 Sheridan Street,","Hollywood, FL 33021",(954) 964-2011,store_2671,33062.0
+"1580 NE Miami Gardens Drive,","N. Miami Beach, FL 33179",(786) 274-8712,store_2681,33062.0
+2290 N Congress Ave,"Boynton Beach, FL 33426",(561) 208-8237,store_2702,33076.0
+"630 W 49th St,","Hialeah, FL 33012",(954) 536-0768,store_2717,33029.0
+"10180 Forest Hill Boulevard,","Wellington, FL 33414",(631) 987-9517,store_2682,33772.0
+77 Cole St,"Yonkers, NY 10710",(914) 476-2429,store_2725,10573.0
+"852 State Rt 3,","Clifton, NJ 07012",(973) 470-8444,store_2694,10302.0
+"1070 Hamburg Tpke,","Wayne, NJ 07470",(973) 628-5223,store_2534,7652.0
+"900 S Miami Ave, Ste 236","Miami, FL 33130",(786) 325-0110,store_2661,33179.0

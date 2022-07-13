@@ -32,7 +32,19 @@
             <li>Street Address: 75 5th St NW, Ste E</li>
             <li>City: Atlanta</li>
             <li>State: GA</li>
+            <li>Location Help: Inside LA Fitness Esporta</li>
             <li>Phone Number: (470) 440-5180</li>
+            <li>Store Hours:
+                <ul>
+                    <li>Mon 8:00AM - 9:30PM</li>
+                    <li>Tue 8:00AM - 9:30PM</li>
+                    <li>Wed 8:00AM - 9:30PM</li>
+                    <li>Thu 8:00AM - 9:30PM</li>
+                    <li>Fri 8:00AM - 9:30PM</li>
+                    <li>Sat 9:00AM - 5:00PM</li>
+                    <li>Sun 10:00AM - 5:00PM</li>
+                </ul>
+            </li>
         </ul>
     </li>
 </ul>

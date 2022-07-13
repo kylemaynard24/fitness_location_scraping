@@ -57,7 +57,7 @@ class Scraper:
 
         
     def write_facility_component(self, message):
-        dir_name = './html_files/'
+        dir_name = './html_files/florida_zips/'
         file_name = datetime.today().strftime('%Y-%m-%d').replace("-","_") + "_" + str(self.zip) + ".txt"
         with open(dir_name + file_name, "a") as f:
             f.write(message + "\n\n")
